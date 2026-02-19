@@ -1,0 +1,259 @@
+
+/* container part */
+
+.container{
+    height: 75px;
+    width: 1440px;
+    opacity: 100%;
+    display: flex; 
+    /* padding: 0 0 0 80px; */
+    margin: auto;
+    align-items: center;
+    justify-content: space-around;
+    background-color:black;
+
+
+
+    
+}
+.abc{
+    display:flex;
+    gap: 15px;
+    color: #F2F5FC;
+}
+
+#button{
+    background-color:#1FD2FF;
+    font-size: 16px;
+    padding: 5px 6px 5px 6px ;
+    border-radius: 5px;
+    
+
+}
+#button:hover{
+    background-color: white;
+}
+
+#button:active{
+    background-color: pink;
+}
+#prac{
+    font-size: 25px;
+    color:#71DA2B;
+}
+
+/* hero section */
+
+.hero{
+    height: 820px;
+    width: 1440px;
+    align-items: center; 
+    padding: 160px 0 0 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 160px 80px 80px;
+    
+
+.hero1{
+    flex: 1;
+}
+}
+h1{
+    font-weight: 800;
+    font-size: 40px;
+}
+span{
+
+    
+  background: linear-gradient(90deg, #1FD2FF 46%, #71DA2B 24%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  
+}
+
+.img{
+    flex:1;
+    display:flex;
+    justify-content:center;
+}
+
+#button1{
+    background-color:#1FD2FF ;
+    padding: 10px 30px 10px 30px;
+    border-radius: 10px;
+}
+
+#button1:hover{
+    background-color:pink;
+
+}
+#button2:hover{
+    background-color: aqua;
+
+}
+#button1:active{
+    background-color: blueviolet;
+
+}
+#button2:active{
+    background-color: cadetblue;
+}
+#button2{
+    background-color: #71DA2B;
+      padding: 10px 30px 10px 30px;
+      border-radius: 10px;
+}
+
+
+.section1{
+    background: url(background_image.png);
+}
+
+/* get started button  */
+
+.section2{
+    width: 1440px;
+    height: 1860px;
+    background-color: black;
+    padding:160px 0  0 80px;
+}
+.ab{
+    text-align: center;
+    
+}
+#h2{
+      
+  background: linear-gradient(90deg, #1FD2FF 46%, #71DA2B 24%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: auto;
+}
+
+
+
+#h1{
+    color: white;
+}
+
+#green{
+    color: #71DA2B;
+}
+h3{
+    color:#A8DADC;
+}
+.image3{
+    display:flex;
+    gap: 260px;
+
+}
+
+.left{
+    
+    padding: 150px 0 0 0;
+}
+/* course section */
+
+.section3{
+    height: 1440px;
+    width: 1439px;
+    padding: 160px 80px 160px 80px;
+    background-color: black;
+}
+
+.content_course{
+    text-align: center;
+    padding:25px 0 0 0 ;
+    background-color:#1C2A2E ;
+    padding:0 0 15px 0;
+}
+
+.course-main{
+    text-align: center;
+}
+.content_course{
+    display: flex;
+    gap: 100px;
+
+}
+#course_button{
+    background-color: #71DA2B;
+    padding: 15px 230px 15px 230px;
+}
+
+#course_button:hover{
+    background-color: white;
+}
+#course_button:active{
+    background-color: chocolate;
+}
+
+.python{
+    
+    padding:100px 0 0 0;
+    background-color:#1C2A2E;
+}
+#coming-soon{
+    background-color: grey;
+    padding: 15px 200px 15px 200px;
+}
+
+#coming-soon:hover{
+    background-color: white;
+
+}
+#coming-soon:active{
+    background-color: darkorchid;
+}
+/* about section */
+
+.section4{
+    width: 1600px;
+    height: 984px;
+    background-color: black;
+
+}
+
+
+#mission{
+    color: #71DA2B;
+}
+p{
+    color: #A8DADC;
+}
+.about-us{
+    display: flex;
+    gap: 300px;
+}
+
+/* FAQ */
+.FAQ{
+     height:1250px; 
+    width: 1600px; 
+    background-color: black;
+}
+
+.section5{
+    height: 1099px;
+    width: 1600px;
+    background-color: black ;
+    padding: 380px 0 0 0 ;
+
+}
+
+.section6{
+    width: 1600px;
+    height:786px;
+    background-color: black;
+}
+#image11{
+    padding: 160px 0px 160px 50px;
+}
+
+.section7{
+    height: 584px;
+    width: 1600px;
+    padding:60px 60px 60px 60px;
+    background-color: black;
+}
